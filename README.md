@@ -34,13 +34,13 @@ With Arc Layout explore new styles and approaches on material design
           app:arc_height="90dp"
           app:arc_padding="30dp"
           >
- 
+
           <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:scaleType="centerCrop"
-                android:src="@drawable/road" /> 
-                
+                android:src="@drawable/road" />
+
  </com.github.florent37.arclayout.ArcLayout>        
 ```
 
@@ -56,13 +56,13 @@ With Arc Layout explore new styles and approaches on material design
           app:arc_height="90dp"
           app:arc_padding="30dp"
           >
- 
+
           <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:scaleType="centerCrop"
-                android:src="@drawable/road" /> 
-                
+                android:src="@drawable/road" />
+
  </com.github.florent37.arclayout.ArcLayout>        
 ```
 
@@ -106,8 +106,8 @@ compile 'com.github.florent37:arclayout:1.0.1'
 
 **Cinema Application by Zsolt Szilvai**
 
-The new Star Wars movie is coming soon, so I decided to design this cinema app screen with one of the Rogue One posters. 
-Also, I tried something new: notice, that the white rectangle on the bottom is bended, which makes the design a bit more lively. The app bar has a reduced opacity and the image behind it is blurred to get a unique look. 
+The new Star Wars movie is coming soon, so I decided to design this cinema app screen with one of the Rogue One posters.
+Also, I tried something new: notice, that the white rectangle on the bottom is bended, which makes the design a bit more lively. The app bar has a reduced opacity and the image behind it is blurred to get a unique look.
 I'd appreciate any feedback.
 
 [https://material.uplabs.com/posts/cinema-application-interface](https://material.uplabs.com/posts/cinema-application-interface)
@@ -133,7 +133,7 @@ Author: Florent Champigny [http://www.florentchampigny.com/](http://www.florentc
 </a>
 
 
-License
+License:
 --------
 
     Copyright 2016 florent37, Inc.
